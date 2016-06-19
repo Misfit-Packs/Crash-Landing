@@ -1,0 +1,20 @@
+{
+    "energyCost": 100,
+    "type": "Extract",
+    "reversible": false,
+    "fluid": {
+        "name": "glowstone",
+        "amount": 1000
+    },
+    "input": {
+        "id": 3,
+        "meta": 0,
+        "count": 1
+    },
+    "output": {
+        "id": 264,
+        "meta": 0,
+        "count": 1
+    },
+    "chance": 50
+}
